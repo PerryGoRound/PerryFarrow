@@ -1,0 +1,297 @@
+
+/****************** Header **********************/
+
+.navbar-brand{
+  font-family: 'Cinzel', serif;
+  font-size: 2.25rem;
+  margin-left: 20px;
+  padding-top: 20px;
+}
+
+.Perry{
+  font-family:'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 2.25rem;
+  padding-top: 20px;
+}
+
+#navbarTogglerDemo01{
+  margin-right: 20px;
+  padding-top: 20px;
+}
+
+/************************ Carousel *******************/
+
+.carousel-size{
+  width: 1000px;
+  height: 600px;
+}
+
+.carousel-inner{
+  width: 100%;
+  height: 600px;
+}
+
+.row{
+  margin: 40px auto;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+hr{
+  border-top: 1px solid white;
+  width: 95%;
+  padding-bottom: 30px;
+}
+
+/*********************** About Us Section***************/
+
+.about-Container{
+  height: 400px;
+  position: relative;
+}
+
+.about-us-text{
+  color: black;
+  font-family: 'Montserrat' , sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  font-weight: 300;
+  text-align: left;
+}
+
+.about{
+  padding: 10% 10%;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+
+}
+
+.About-Us-page{
+  margin: 50px 100px;
+  line-height: 2;
+}
+
+
+/************************ Featured Artists *****************/
+
+#Featured-Artists{
+  background-color: #27496d;
+}
+
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: white;
+  margin: 0 10px;
+}
+
+p{
+  color: white;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  font-size: 1.25rem;
+  margin-top: 20px;
+  color: white;
+  text-align: center
+}
+
+h4{
+  color: black;
+  font-family: 'Montserrat' , sans-serif;
+  font-size: 2.25rem;
+  padding: 50px 0 20px;
+  font-weight: 200;
+  margin-left: 0;
+  text-align: center;
+}
+
+h5{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.25rem;
+  padding-bottom: 20px;
+  font-weight: 200;
+  margin-left: 0;
+}
+
+
+#title{
+  background-color: #27496d;
+  padding-bottom: 20px;
+}
+
+/* Images */
+
+.max-img-artist1{
+  height: 400px;
+  width: 400px;
+}
+
+.dr-michael-artist1{
+  height: 400px;
+  width: 400px;
+}
+
+.james-img-artist1{
+  height: 400px;
+  width: 400px;
+}
+
+.max-img-artist{
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+
+}
+
+.james-img-artist{
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+
+}
+
+.dr-michael-artist{
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+
+}
+
+.KeyWorker1{
+  height: 400px;
+  width: 270px;
+}
+
+.KeyWorker2{
+  height: 400px;
+  width: 270px;
+}
+
+.KeyWorker3{
+  height: 400px;
+  width: 270px;
+}
+
+.title-text{
+  display: block;
+  text-align: center;
+  position: absolute;
+}
+
+.big-image1{
+  width: 800px;
+  height: 500px;
+  margin: 50px 50px 50px;
+}
+
+.artist-text{
+  color: black;
+  max-width: 400px;
+}
+
+.Artist-photo{
+  text-align: center;
+  margin: 50px auto;
+}
+
+.thumbnail :hover {
+    position: absolute;
+    width:550px;
+    height:550px;
+    display:block;
+    z-index:1;
+  }
+
+  .thumbnail1 :hover{
+    position: absolute;
+    width:650px;
+    height:450px;
+    display:block;
+    z-index:1;
+  }
+
+  .thumbnail2 :hover{
+    position: absolute;
+    width:550px;
+    height:675px;
+    display:block;
+    z-index:1;
+  }
+
+
+/* Contact-page */
+
+.nathan-img{
+  margin-top: 50px;
+}
+
+.nathan-pic{
+  display: block;
+  border-radius: 50%;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.contact-container{
+  padding: 2% 10%;
+  margin-bottom: 30px;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.bottom-blue-box{
+  height: 200px;
+  background-color: #27496d;
+  margin-top: 150px;
+}
+
+.form-container{
+  margin-left: 150px;
+  margin-right: 150px;
+
+}
+
+/* Footer */
+
+.bottom-container{
+  height: 200px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+.copyright-container{
+  margin: 50px auto;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+}
+
+.footer-link{
+  color: black;
+  padding-top: 80px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 0.875rem;
+}
+
+.copyright{
+  color: black;
+  padding-top: 60px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  font-size: 0.75rem;
+}
+
+.link{
+  color: #27496d;
+}
