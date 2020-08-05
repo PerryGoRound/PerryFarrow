@@ -54,7 +54,7 @@ hr{
 .about-us-text{
   color: black;
   font-family: 'Montserrat' , sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.25ems;
   line-height: 1.5;
   font-weight: 300;
   text-align: left;
@@ -70,7 +70,7 @@ hr{
 
 .About-Us-page{
   margin: 50px 100px;
-  line-height: 2;
+  line-height: 1.5;
 }
 
 
